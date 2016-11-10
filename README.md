@@ -1,2 +1,2 @@
-# http://drrconstrucao.github.io/index.html
+# http://drrconstrucao.github.io/index
 meu website
